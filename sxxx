@@ -1,0 +1,5 @@
+Targeted protein degration via intramolecular bivalent glues(Nature)
+原文链接 https://www.nature.com/articles/s41586-024-07089-6
+PROTAC(in trans) /molecular glue(in cis)
+在结构上，PROTAC包括三个部分：一个E3泛素连接酶配体和一个靶蛋白配体，两个活性配体通过特殊设计的“Linker”结构连接在一起，最终形成了三联体的“PROTAC”的活性形式。
+在患者体内，PROTAC的靶蛋白配体和靶蛋白结合，E3泛素连接酶配体和细胞内的E3泛素连接酶的底物结合区结合，从而通过Linker把靶蛋白“拉近”到E3泛素连接酶旁边，实现UPS系统将靶蛋白降解。
